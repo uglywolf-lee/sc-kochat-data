@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-3",
+ "version": "4.10.0-4",
  "game_build": "sc-alpha-4.10.0",
- "size": 11278918,
- "sha256": "e07acf0b25777ccb0762547469c491243397e10ec9bf310397a8aecf41421eb8",
+ "size": 11279757,
+ "sha256": "a5e7a0c8b648c806a4842cacdc3ac618cf3debdd78b054e79b5c1cafc2dfc079",
  "updated": "2026-08-27",
- "note": "파워플랜트 등급 누락 수정"
+ "note": "부품 등급 354개로 확대"
 }
