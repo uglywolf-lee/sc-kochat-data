@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-4",
+ "version": "4.10.0-5",
  "game_build": "sc-alpha-4.10.0",
- "size": 11279757,
- "sha256": "a5e7a0c8b648c806a4842cacdc3ac618cf3debdd78b054e79b5c1cafc2dfc079",
+ "size": 11280793,
+ "sha256": "09ce33f4b4e2ababa9ad870d76f757c437c054b9d8ce0bc08306504cbb358056",
  "updated": "2026-08-27",
- "note": "부품 등급 354개로 확대"
+ "note": "용어 정리, 부품 등급 432개"
 }
