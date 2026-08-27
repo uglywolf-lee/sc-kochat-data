@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-18",
+ "version": "4.10.0-19",
  "game_build": "sc-alpha-4.10.0",
- "size": 11345297,
- "sha256": "52f2d02eb2c5cc4f62a5b67bbaacb372d69a5ae40fc249359ff8931a77cc4006",
+ "size": 11345095,
+ "sha256": "f302e6151fdec3dd2699f5f7e40d599b91866c39cf0e8330564f7e2d2f570493",
  "updated": "2026-08-27",
- "note": "번역돼 버린 서식 조각 80줄 되살림"
+ "note": "글자 깨지던 HUD·파티 표시를 영문으로"
 }
