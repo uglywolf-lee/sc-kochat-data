@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-11",
+ "version": "4.10.0-12",
  "game_build": "sc-alpha-4.10.0",
- "size": 11349001,
- "sha256": "391671ac6a54d858d0f481804fbe817d78eb9ca83e464f70cd0ad6c1f9255a36",
+ "size": 11331380,
+ "sha256": "c32eb898407f64ed2dd651f01a29aee1581c4cd71d0ac94ffbfc20d1f56aff19",
  "updated": "2026-08-27",
- "note": "부품 제품명 영문 유지 (Surge Module 등 209줄)"
+ "note": "아이템 이름 1025줄 영문 복원 (소문자 키를 놓쳤던 것)"
 }
