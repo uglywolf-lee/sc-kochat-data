@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-7",
+ "version": "4.10.0-8",
  "game_build": "sc-alpha-4.10.0",
- "size": 11316620,
- "sha256": "b82084383317147334f1bf1c6226b7f8a6d82c470cd597e77e0dc4a15b410684",
+ "size": 11316722,
+ "sha256": "89d195a763aa02e0bf6204d3f8985b9e488beb8ef6ca9d767418b3ac55d2cced",
  "updated": "2026-08-27",
- "note": "반만 옮겨진 낱말 286줄 고침 (라ivery -> Livery)"
+ "note": "기계용 태그 47줄 영문 복원 (<Formation 2>, <None>)"
 }
