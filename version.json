@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-17",
+ "version": "4.10.0-18",
  "game_build": "sc-alpha-4.10.0",
- "size": 11345398,
- "sha256": "cc62c4e3442583efc946837ffc8ef4e9ce542d5887d41744d25b8811dea88b25",
+ "size": 11345297,
+ "sha256": "52f2d02eb2c5cc4f62a5b67bbaacb372d69a5ae40fc249359ff8931a77cc4006",
  "updated": "2026-08-27",
- "note": "부품 꼬리표(종류·크기·등급) 950개 다시 붙임"
+ "note": "번역돼 버린 서식 조각 80줄 되살림"
 }
