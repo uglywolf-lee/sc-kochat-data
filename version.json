@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-8",
+ "version": "4.10.0-9",
  "game_build": "sc-alpha-4.10.0",
- "size": 11316722,
- "sha256": "89d195a763aa02e0bf6204d3f8985b9e488beb8ef6ca9d767418b3ac55d2cced",
+ "size": 11350259,
+ "sha256": "07b2e00d6b5331395bba35f7faca7b9c586e74531f484b6d9173c37a21f9a45a",
  "updated": "2026-08-27",
- "note": "기계용 태그 47줄 영문 복원 (<Formation 2>, <None>)"
+ "note": "고유명사 영문 유지(지명·정거장·인물), 기계용 태그 복원"
 }
