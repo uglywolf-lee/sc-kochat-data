@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-6",
+ "version": "4.10.0-7",
  "game_build": "sc-alpha-4.10.0",
- "size": 11315392,
- "sha256": "92ece7e9d01b0b674dd8f048e767268abafc8ed21070469fc5b8800e2c2cdf38",
+ "size": 11316620,
+ "sha256": "b82084383317147334f1bf1c6226b7f8a6d82c470cd597e77e0dc4a15b410684",
  "updated": "2026-08-27",
- "note": "빠진 키 813개 채움(@LOC_INVALID), 함선 이름 80개 영문 복귀, 제조사 음차 22군데 복귀"
+ "note": "반만 옮겨진 낱말 286줄 고침 (라ivery -> Livery)"
 }
