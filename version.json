@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-20",
+ "version": "4.10.0-21",
  "game_build": "sc-alpha-4.10.0",
- "size": 11341024,
- "sha256": "183ebc67871183b2d149b0e3f2c134bc3b119ddd360ec95184d91e8c070e549d",
- "updated": "2026-08-27",
- "note": "퀀텀 목적지 이름·파티 메뉴 영문"
+ "size": 11341204,
+ "sha256": "bc32b9d7becd5372d0a43420fc3c1d64585c00d9e364e9e62ee190c7a48764a3",
+ "updated": "2026-08-28",
+ "note": "총기 부착물 Spread 를 산포 -> 탄분산도"
 }
