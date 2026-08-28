@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-21",
+ "version": "4.10.0-22",
  "game_build": "sc-alpha-4.10.0",
- "size": 11341204,
- "sha256": "bc32b9d7becd5372d0a43420fc3c1d64585c00d9e364e9e62ee190c7a48764a3",
+ "size": 11510117,
+ "sha256": "56eaa32adb1b64ee32c60f596d877b9db0fff4038644596b3dfba21d198b724b",
  "updated": "2026-08-28",
- "note": "총기 부착물 Spread 를 산포 -> 탄분산도"
+ "note": "퀘스트 보상 표시 (StarStrings) · 총기 Spread 탄분산도"
 }
