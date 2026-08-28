@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-22",
+ "version": "4.10.0-23",
  "game_build": "sc-alpha-4.10.0",
- "size": 11510117,
- "sha256": "56eaa32adb1b64ee32c60f596d877b9db0fff4038644596b3dfba21d198b724b",
+ "size": 11511142,
+ "sha256": "8c2a9da343aff0d16037c5da39663bc1258ad82f06c6355fe1d7f88096f7ad6f",
  "updated": "2026-08-28",
- "note": "퀘스트 보상 표시 (StarStrings) · 총기 Spread 탄분산도"
+ "note": "한자 섞인 357줄 · 무기 스탯 용어 76군데"
 }
