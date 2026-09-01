@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-29",
+ "version": "4.10.0-30",
  "game_build": "sc-alpha-4.10.0",
- "size": 11514367,
- "sha256": "e40681524650428a234a53fbcc42d455dad116b602289cc33aba0f66135e2aab",
+ "size": 11514397,
+ "sha256": "aa0312d8c6b531902cec10ea9b600a68456f576f7550ec2ec7cf88f9adce5fff",
  "updated": "2026-09-01",
- "note": "Bespoke 6종에 A급을 붙이고 꼬리표가 없던 부품 27줄을 채운다 (퀀텀드라이브 13종 포함)"
+ "note": "Bespoke 6종의 등급 칸을 맞춤형 으로 고친다 (Algid·Serac·Stellate·Allegro·RS-Barrier·Glacis)"
 }
