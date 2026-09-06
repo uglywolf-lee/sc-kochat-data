@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-30",
+ "version": "4.10.0-31",
  "game_build": "sc-alpha-4.10.0",
- "size": 11514397,
- "sha256": "aa0312d8c6b531902cec10ea9b600a68456f576f7550ec2ec7cf88f9adce5fff",
- "updated": "2026-09-01",
- "note": "Bespoke 6종의 등급 칸을 맞춤형 으로 고친다 (Algid·Serac·Stellate·Allegro·RS-Barrier·Glacis)"
+ "size": 11514463,
+ "sha256": "0e08a65ec55769d1a6e32593e31820a678097e7740a482b80be1eaf304eef4ea",
+ "updated": "2026-09-07",
+ "note": "광석 원석 영문화(Raw Ice, Raw Silicon) · 대항책 음차 통일(디코이, 노이즈 49건)"
 }
