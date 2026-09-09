@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-31",
+ "version": "4.10.0-32",
  "game_build": "sc-alpha-4.10.0",
- "size": 11514463,
- "sha256": "0e08a65ec55769d1a6e32593e31820a678097e7740a482b80be1eaf304eef4ea",
- "updated": "2026-09-07",
- "note": "광석 원석 영문화(Raw Ice, Raw Silicon) · 대항책 음차 통일(디코이, 노이즈 49건)"
+ "size": 11514456,
+ "sha256": "c3e2c078a44e1cb70debd29c8b9d957dcb6d1aa4c3d1f504f4f956ea93d4768d",
+ "updated": "2026-09-10",
+ "note": "아이템 하위분류 Iron 및 미션 아이템 Iron Ore 영문화"
 }
