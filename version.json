@@ -1,8 +1,8 @@
 {
- "version": "4.10.0-33",
- "game_build": "sc-alpha-4.10.0",
- "size": 11513945,
- "sha256": "340b46d80a8c43d534d5d607b2956850fcef8a1e3a3631144595b1db5b4a562c",
- "updated": "2026-09-10",
- "note": "지명 및 퀀텀 목적지 영문화 (New Babbage, Port Olisar, 라그랑주 정거장 등)"
+ "version": "4.10.1-34",
+ "game_build": "sc-alpha-4.10.1",
+ "size": 11527962,
+ "sha256": "a385682a41dfd73587d080a5c5e9b4393561dccbb2b1ac888672c22a554f9ae9",
+ "updated": "2026-09-16",
+ "note": "4.10.1 PTU 신규 61개 키 반영 및 검색 명칭(ATLS, 무기, 장비명) 영문 보존"
 }
