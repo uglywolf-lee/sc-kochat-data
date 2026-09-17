@@ -1,8 +1,8 @@
 {
- "version": "4.10.1-34",
+ "version": "4.10.1-35",
  "game_build": "sc-alpha-4.10.1",
- "size": 11527962,
- "sha256": "a385682a41dfd73587d080a5c5e9b4393561dccbb2b1ac888672c22a554f9ae9",
- "updated": "2026-09-16",
- "note": "4.10.1 PTU 신규 61개 키 반영 및 검색 명칭(ATLS, 무기, 장비명) 영문 보존"
+ "size": 11527972,
+ "sha256": "2ea65a216224eff12e2d8896068662a5a891efda7b1cf84e84370bb9761a3188",
+ "updated": "2026-09-18",
+ "note": "파워플랜트 오역 수정 및 화물 검색 품목(Fresh Food, Medical Supplies) 영문화"
 }
