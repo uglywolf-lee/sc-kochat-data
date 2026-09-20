@@ -1,8 +1,8 @@
 {
- "version": "4.10.1-35",
+ "version": "4.10.1-36",
  "game_build": "sc-alpha-4.10.1",
- "size": 11527972,
- "sha256": "2ea65a216224eff12e2d8896068662a5a891efda7b1cf84e84370bb9761a3188",
- "updated": "2026-09-18",
- "note": "파워플랜트 오역 수정 및 화물 검색 품목(Fresh Food, Medical Supplies) 영문화"
+ "size": 11530838,
+ "sha256": "221ef3c0cbf035261d5c60a19aa57436b96db228481be55cab5f23b2143fcc26",
+ "updated": "2026-09-20",
+ "note": "Sabre Raven EX 함선 및 부품 번역, 정제소 표기 개편, 소행성 기지 Xeno 표기 추가"
 }
