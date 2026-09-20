@@ -1,8 +1,8 @@
 {
- "version": "4.10.1-36",
+ "version": "4.10.1-37",
  "game_build": "sc-alpha-4.10.1",
- "size": 11530838,
- "sha256": "221ef3c0cbf035261d5c60a19aa57436b96db228481be55cab5f23b2143fcc26",
+ "size": 11529384,
+ "sha256": "a97dff61620482befb4acac3bbc30058b831d128d0bd46d5df3dbd9506c7721d",
  "updated": "2026-09-20",
- "note": "Sabre Raven EX 함선 및 부품 번역, 정제소 표기 개편, 소행성 기지 Xeno 표기 추가"
+ "note": "한글 번역 내 일본어 가나, 키릴, 아랍 문자 및 글자 깨짐 전수 교정"
 }
