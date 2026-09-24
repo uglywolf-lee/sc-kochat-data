@@ -1,8 +1,8 @@
 {
-  "version": "4.10.1-39",
+  "version": "4.10.1-40",
   "game_build": "sc-alpha-4.10.1",
-  "size": 11529849,
-  "sha256": "cd80a75ce3acf2cc2fcc68e5ef4c31750707d19e723fc36305feb0620b63dbb7",
+  "size": 11533548,
+  "sha256": "14a078626eb52ea6e916207ca68244f4619898119cd4230791f3a0df2fe42e1c",
   "updated": "2026-09-24",
-  "note": "Dudley & Daughters 포함 파이로 정거장 마커 및 데칼 전수 영문 복원"
+  "note": "무기 스펙 Impact Force '공격력' 변경 및 Stows(스토우스) 병기 일괄 통일"
 }
