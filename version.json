@@ -1,8 +1,8 @@
 {
-  "version": "4.10.1-40",
+  "version": "4.10.1-41",
   "game_build": "sc-alpha-4.10.1",
-  "size": 11533548,
-  "sha256": "14a078626eb52ea6e916207ca68244f4619898119cd4230791f3a0df2fe42e1c",
+  "size": 11533443,
+  "sha256": "4fa07d5701e83302dc864528fbe1e26cab8e6594b004a36c3cf08d295f4ecf12",
   "updated": "2026-09-24",
-  "note": "무기 스펙 Impact Force '공격력' 변경 및 Stows(스토우스) 병기 일괄 통일"
+  "note": "Citizens for Prosperity (CFP) 팩션 명칭 영문 원문 100% 일괄 통일"
 }
