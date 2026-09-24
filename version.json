@@ -1,9 +1,9 @@
 {
-    "version": "4.10.1-45",
+    "version": "4.10.1-46",
     "game_build": "sc-alpha-4.10.1",
-    "size": 11529849,
-    "sha256": "444032a69bf9f411987925b931e8d4d47d3fde031bdfd073e539100d5c4a3baf",
+    "size": 11530332,
+    "sha256": "eb4bca9b6ec29ffe9f866622bcbe7a63111c0e60ab62f005e57a30c71ff6aa57",
     "updated": "2026-09-24",
-    "note": "고유명사 영문 원문 통일 및 영문 음차 동어반복 전수 정비 (164개 라인)",
-    "hash": "444032a69bf9f411987925b931e8d4d47d3fde031bdfd073e539100d5c4a3baf"
+    "note": "NPC 이름 및 성씨 미음차 잔여 214개 전수 음차 배포 (Wilbur->윌버 등)",
+    "hash": "eb4bca9b6ec29ffe9f866622bcbe7a63111c0e60ab62f005e57a30c71ff6aa57"
 }
