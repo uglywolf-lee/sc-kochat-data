@@ -1,8 +1,8 @@
 {
-  "version": "4.10.1-38",
+  "version": "4.10.1-39",
   "game_build": "sc-alpha-4.10.1",
-  "size": 11529868,
-  "sha256": "bd750768ac646fe74455a0c5145d2f99e98bf2cadf069f94160a5937dea37662",
+  "size": 11529849,
+  "sha256": "cd80a75ce3acf2cc2fcc68e5ef4c31750707d19e723fc36305feb0620b63dbb7",
   "updated": "2026-09-24",
-  "note": "헤드헌터스 음차 통일, 거너 직책 번역 수정 및 파이로 고유 지명 영문 복원"
+  "note": "Dudley & Daughters 포함 파이로 정거장 마커 및 데칼 전수 영문 복원"
 }
