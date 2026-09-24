@@ -1,9 +1,9 @@
 {
-    "version": "4.10.1-44",
+    "version": "4.10.1-45",
     "game_build": "sc-alpha-4.10.1",
-    "size": 11531511,
-    "sha256": "06cf6645f6273c0c3756f5dffa54ac5dba632c576dac7812130d0ae36723bfb2",
+    "size": 11529849,
+    "sha256": "444032a69bf9f411987925b931e8d4d47d3fde031bdfd073e539100d5c4a3baf",
     "updated": "2026-09-24",
-    "note": "Citizens for Prosperity (CFP) 세력 명칭 영문 원문 전수 통일 (잔여 변종 50개 키 정리)",
-    "hash": "06cf6645f6273c0c3756f5dffa54ac5dba632c576dac7812130d0ae36723bfb2"
+    "note": "고유명사 영문 원문 통일 및 영문 음차 동어반복 전수 정비 (164개 라인)",
+    "hash": "444032a69bf9f411987925b931e8d4d47d3fde031bdfd073e539100d5c4a3baf"
 }
