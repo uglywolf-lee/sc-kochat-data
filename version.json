@@ -1,8 +1,8 @@
 {
- "version": "4.10.1-37",
- "game_build": "sc-alpha-4.10.1",
- "size": 11529384,
- "sha256": "a97dff61620482befb4acac3bbc30058b831d128d0bd46d5df3dbd9506c7721d",
- "updated": "2026-09-20",
- "note": "한글 번역 내 일본어 가나, 키릴, 아랍 문자 및 글자 깨짐 전수 교정"
+  "version": "4.10.1-38",
+  "game_build": "sc-alpha-4.10.1",
+  "size": 11529868,
+  "sha256": "bd750768ac646fe74455a0c5145d2f99e98bf2cadf069f94160a5937dea37662",
+  "updated": "2026-09-24",
+  "note": "헤드헌터스 음차 통일, 거너 직책 번역 수정 및 파이로 고유 지명 영문 복원"
 }
