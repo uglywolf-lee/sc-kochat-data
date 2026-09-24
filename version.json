@@ -1,9 +1,9 @@
 {
-    "version": "4.10.1-46",
+    "version": "4.10.1-47",
     "game_build": "sc-alpha-4.10.1",
-    "size": 11530332,
-    "sha256": "eb4bca9b6ec29ffe9f866622bcbe7a63111c0e60ab62f005e57a30c71ff6aa57",
+    "size": 11530054,
+    "sha256": "95459113567aa61e939b154b1d18d2138ff0d11477b3ff9a2619cfe49eeb4452",
     "updated": "2026-09-24",
-    "note": "NPC 이름 및 성씨 미음차 잔여 214개 전수 음차 배포 (Wilbur->윌버 등)",
-    "hash": "eb4bca9b6ec29ffe9f866622bcbe7a63111c0e60ab62f005e57a30c71ff6aa57"
+    "note": "스탠튼 및 닉스 시스템 고유 지명/시설 영문 원문 복원 (284개 거점)",
+    "hash": "95459113567aa61e939b154b1d18d2138ff0d11477b3ff9a2619cfe49eeb4452"
 }
