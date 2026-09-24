@@ -1,8 +1,9 @@
 {
-  "version": "4.10.1-41",
-  "game_build": "sc-alpha-4.10.1",
-  "size": 11533443,
-  "sha256": "4fa07d5701e83302dc864528fbe1e26cab8e6594b004a36c3cf08d295f4ecf12",
-  "updated": "2026-09-24",
-  "note": "Citizens for Prosperity (CFP) 팩션 명칭 영문 원문 100% 일괄 통일"
+    "version": "4.10.1-42",
+    "game_build": "sc-alpha-4.10.1",
+    "size": 11532867,
+    "sha256": "4fa07d5701e83302dc864528fbe1e26cab8e6594b004a36c3cf08d295f4ecf12",
+    "updated": "2026-09-24",
+    "note": "Citizens for Prosperity (CFP) 팩션 명칭 영문 원문 100% 일괄 통일",
+    "hash": "ca873db43a228d6a0c0f37de57c28898ea916c0d66184bc2a6f37dc85e8ef136"
 }
