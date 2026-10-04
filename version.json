@@ -1,9 +1,9 @@
 {
-    "version": "4.10.2-1",
+    "version": "4.10.2-2",
     "game_build": "sc-alpha-4.10.2",
-    "size": 11634914,
-    "sha256": "35d90b1a5bc4e61c4e26f83df54c937ea00509d44547144087bbf46380730ab6",
-    "updated": "2026-10-01",
-    "note": "PTU 4.10.2 동기화 — IASI 행사 미션·Monolith 헤비 갑옷 세트·Morozov 색상판·위켈로 제작법 등 새 줄 230·영문 변경 26 번역, 기존 미션 보상 표기 164줄 갱신",
-    "hash": "35d90b1a5bc4e61c4e26f83df54c937ea00509d44547144087bbf46380730ab6"
+    "size": 11598190,
+    "sha256": "b8b4f424499c6f0d067036aa80b511b306974c34b488d35dbff6b6b4a7e9aeda",
+    "updated": "2026-10-05",
+    "note": "PTU 4.10.2 퀘스트 보상·도면(BP) 꼬리표 갱신 — 최신 PTU(StarStrings 2026-10-04) 기준 슈빈 채굴 미션 등 8개 보상 신규 등록 및 폭스웰·헤드헌터 등 120개 도면/평판 정보 최신화",
+    "hash": "b8b4f424499c6f0d067036aa80b511b306974c34b488d35dbff6b6b4a7e9aeda"
 }
