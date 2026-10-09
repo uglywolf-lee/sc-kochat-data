@@ -1,9 +1,9 @@
 {
-    "version": "4.10.2-4",
+    "version": "4.10.2-5",
     "game_build": "sc-alpha-4.10.2",
-    "size": 11693537,
-    "sha256": "f8d590a952137965f10337fbd55bd08e1bf8e72bc8445e1584439d7e597be530",
+    "size": 11694123,
+    "sha256": "2290bd08440e5d4666dfcf46a25bc83b930b8624049962047e25f1dfd2abbf8f",
     "updated": "2026-10-10",
-    "note": "LIVE 4.10.2 정식 빌드(12881860) 반영 — RSI 디스커버리 먼스 임무·보상 문구, Constellation Mk IV/Mk V·Skylark·Flight Blade 신규 번역, 보상 꼬리표 StarStrings LIVE 일치",
-    "hash": "f8d590a952137965f10337fbd55bd08e1bf8e72bc8445e1584439d7e597be530"
+    "note": "영문 기준 점검 — 영문에 있는 문구가 빠지거나 자리표시자가 깨진 7곳 복구(Headhunters 방어 임무 본문, 회수·광석 샘플 임무, Uplink 복구 시간 표시 등)",
+    "hash": "2290bd08440e5d4666dfcf46a25bc83b930b8624049962047e25f1dfd2abbf8f"
 }
