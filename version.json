@@ -1,9 +1,9 @@
 {
-    "version": "4.10.2-3",
+    "version": "4.10.2-4",
     "game_build": "sc-alpha-4.10.2",
-    "size": 11598937,
-    "sha256": "70e5e38bf9e5e485bf46e36ed144b96b299ad3f59f647eeb554b83ebbc977260",
-    "updated": "2026-10-08",
-    "note": "PTU 4.10.2 새 빌드(12878398) 반영 — 채굴 납품·인양 임무 6줄에 초과 납품 반환 불가·RMC 귀속·함선 예시 문구 추가",
-    "hash": "70e5e38bf9e5e485bf46e36ed144b96b299ad3f59f647eeb554b83ebbc977260"
+    "size": 11693537,
+    "sha256": "f8d590a952137965f10337fbd55bd08e1bf8e72bc8445e1584439d7e597be530",
+    "updated": "2026-10-10",
+    "note": "LIVE 4.10.2 정식 빌드(12881860) 반영 — RSI 디스커버리 먼스 임무·보상 문구, Constellation Mk IV/Mk V·Skylark·Flight Blade 신규 번역, 보상 꼬리표 StarStrings LIVE 일치",
+    "hash": "f8d590a952137965f10337fbd55bd08e1bf8e72bc8445e1584439d7e597be530"
 }
