@@ -1,9 +1,9 @@
 {
-    "version": "4.10.2-7",
+    "version": "4.10.2-8",
     "game_build": "sc-alpha-4.10.2",
-    "size": 11697870,
-    "sha256": "c53b95b9c0e9bae472c819fa23b818f6713011577004af241e93bf77f60f592c",
-    "updated": "2026-10-27",
-    "note": "표기 통일 — 색 등급 계약(빨간색·주황색·노란색 등급)·Cargo→화물·mobiGlas→모비글라스·HUD MFD 버튼 한글(무기·추진·실드·퀀텀·레이더·미사일)·한글 섞인 아이템 이름 영어 원문으로",
-    "hash": "c53b95b9c0e9bae472c819fa23b818f6713011577004af241e93bf77f60f592c"
+    "size": 11696626,
+    "sha256": "96454dda03d6b1607d2aad5d78f0735476a2c696677bc05e08f0401dd35f85a4",
+    "updated": "2026-10-28",
+    "note": "광물·채집물 이름 통일 — 채굴 화면 이름표(Aphorite·Dolivine·Hadanite·Quantainium)를 상점 이름과 같게, 행성·위성 설명의 채굴 목록 머리말 하나로·이름 영어, 임무 물품·위켈로·고블린 계약의 광물 이름 영어",
+    "hash": "96454dda03d6b1607d2aad5d78f0735476a2c696677bc05e08f0401dd35f85a4"
 }
