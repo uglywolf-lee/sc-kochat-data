@@ -1,9 +1,9 @@
 {
-    "version": "4.10.2-8",
+    "version": "4.10.2-9",
     "game_build": "sc-alpha-4.10.2",
-    "size": 11696626,
-    "sha256": "96454dda03d6b1607d2aad5d78f0735476a2c696677bc05e08f0401dd35f85a4",
+    "size": 11682899,
+    "sha256": "308fb0b5c2f7c161bea16827d670e41f4c6f50e5d67f8368eb085ada7c081ae6",
     "updated": "2026-10-28",
-    "note": "광물·채집물 이름 통일 — 채굴 화면 이름표(Aphorite·Dolivine·Hadanite·Quantainium)를 상점 이름과 같게, 행성·위성 설명의 채굴 목록 머리말 하나로·이름 영어, 임무 물품·위켈로·고블린 계약의 광물 이름 영어",
-    "hash": "96454dda03d6b1607d2aad5d78f0735476a2c696677bc05e08f0401dd35f85a4"
+    "note": "이름 표기 통일 — 같은 이름이 음차·번역·영어로 갈려 있던 약 3,500줄을 정리: 회사·함선·물건·지명·이야기 인물 이름은 영어(Drake·Nine Tails·Bounty Hunters Guild·Logan Jorrit 등), 「한글(English)」 겹쳐 쓰기는 영어 하나로, 성계는 「Stanton 시스템」 한 표기, 무작위 NPC 이름은 음차 그대로",
+    "hash": "308fb0b5c2f7c161bea16827d670e41f4c6f50e5d67f8368eb085ada7c081ae6"
 }
