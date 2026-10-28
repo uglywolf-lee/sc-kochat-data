@@ -1,9 +1,9 @@
 {
-    "version": "4.10.2-9",
+    "version": "4.10.2-10",
     "game_build": "sc-alpha-4.10.2",
-    "size": 11682899,
-    "sha256": "308fb0b5c2f7c161bea16827d670e41f4c6f50e5d67f8368eb085ada7c081ae6",
+    "size": 11695722,
+    "sha256": "9e7bc02ea0e0633ea92c9ddaf5a5c1e220f799707e0c17b6603c34ab215ce87e",
     "updated": "2026-10-28",
-    "note": "이름 표기 통일 — 같은 이름이 음차·번역·영어로 갈려 있던 약 3,500줄을 정리: 회사·함선·물건·지명·이야기 인물 이름은 영어(Drake·Nine Tails·Bounty Hunters Guild·Logan Jorrit 등), 「한글(English)」 겹쳐 쓰기는 영어 하나로, 성계는 「Stanton 시스템」 한 표기, 무작위 NPC 이름은 음차 그대로",
-    "hash": "308fb0b5c2f7c161bea16827d670e41f4c6f50e5d67f8368eb085ada7c081ae6"
+    "note": "검색되는 이름(지명·물건·함선·상품)만 영어, 계약을 주는 회사·조직·인물은 한글 표기 하나로 통일(블랙잭·인터섹·에크하트 보안·레코 바탈리아·제노스레트·번영을 위한 시민들 등, 평판 화면 포함). 영어로 남아 있던 위치 설명·알림·상점 문장 약 900줄 번역(「Delamar의 한 지점」·「Levski의 Cafe Musain」 등). 「점수 정리」→「묵은 원한 갚기」 등 오역 수정",
+    "hash": "9e7bc02ea0e0633ea92c9ddaf5a5c1e220f799707e0c17b6603c34ab215ce87e"
 }
