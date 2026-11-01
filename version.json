@@ -1,9 +1,9 @@
 {
-    "version": "4.10.2-11",
+    "version": "4.10.2-12",
     "game_build": "sc-alpha-4.10.2",
-    "size": 11759727,
-    "sha256": "85fcf3b85a8c6ed357dbf5c53a785edc47c573c7bff46d8f1137858611836a8e",
-    "updated": "2026-10-31",
-    "note": "4.10.2 새 빌드 문구 반영(Nyx 인터섹 임무·Raider Camo·Skarnov 전자 소총·Omarof 조준경·Lephari 레이더·차량 호출 화면 등 155줄). 같은 영문은 파일 전체에서 한 가지 한국어로 통일(약 7,900곳). 지금 LIVE 와 새 빌드 양쪽 임무 문구가 다 나오도록 승선 임무 키를 옛 이름으로도 넣음",
-    "hash": "85fcf3b85a8c6ed357dbf5c53a785edc47c573c7bff46d8f1137858611836a8e"
+    "size": 11759553,
+    "sha256": "b169207f9196e49fc74c80fa71b41598030fec7b5e5b0d0ee60dffe1e2d0edb3",
+    "updated": "2026-11-02",
+    "note": "채팅 /명령어 고침: 감정표현(/dance1·/agree 등) 130개와 채팅 명령(/tell·/party 등) 20개의 이름이 한국어로 옮겨져 게임에서 안 먹던 것을 영어로 되돌림. 설명 글은 한국어 그대로",
+    "hash": "b169207f9196e49fc74c80fa71b41598030fec7b5e5b0d0ee60dffe1e2d0edb3"
 }
