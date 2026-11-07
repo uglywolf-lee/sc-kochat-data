@@ -1,9 +1,9 @@
 {
-    "version": "4.10.2-12",
+    "version": "4.10.2-13",
     "game_build": "sc-alpha-4.10.2",
-    "size": 11759553,
-    "sha256": "b169207f9196e49fc74c80fa71b41598030fec7b5e5b0d0ee60dffe1e2d0edb3",
-    "updated": "2026-11-02",
-    "note": "채팅 /명령어 고침: 감정표현(/dance1·/agree 등) 130개와 채팅 명령(/tell·/party 등) 20개의 이름이 한국어로 옮겨져 게임에서 안 먹던 것을 영어로 되돌림. 설명 글은 한국어 그대로",
-    "hash": "b169207f9196e49fc74c80fa71b41598030fec7b5e5b0d0ee60dffe1e2d0edb3"
+    "size": 11759486,
+    "sha256": "cd129fbd78c08086fe7fccc63c09b653d686217975fa28a4a98a57c66edcd843",
+    "updated": "2026-11-08",
+    "note": "블랙박스 표기 통일: 같은 물건이 「비행 기록기·기록장·기록계·기록 장치」로 갈려 있던 9곳을 「블랙박스」 하나로",
+    "hash": "cd129fbd78c08086fe7fccc63c09b653d686217975fa28a4a98a57c66edcd843"
 }
