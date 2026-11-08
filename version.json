@@ -1,9 +1,9 @@
 {
-    "version": "4.10.2-13",
-    "game_build": "sc-alpha-4.10.2",
-    "size": 11759486,
-    "sha256": "cd129fbd78c08086fe7fccc63c09b653d686217975fa28a4a98a57c66edcd843",
-    "updated": "2026-11-08",
-    "note": "블랙박스 표기 통일: 같은 물건이 「비행 기록기·기록장·기록계·기록 장치」로 갈려 있던 9곳을 「블랙박스」 하나로",
-    "hash": "cd129fbd78c08086fe7fccc63c09b653d686217975fa28a4a98a57c66edcd843"
+ "version": "4.10.2-14",
+ "game_build": "sc-alpha-4.10.2",
+ "size": 11757403,
+ "sha256": "ac6a1d36fae2199acce39fec41a8760ced752c2c645eb33962e67df828e34a44",
+ "updated": "2026-11-08",
+ "note": "고확신 번역 후보 105건 적용: 전투 웨이브 표기, 깨진 단어, 오역·자리표시자 수정",
+ "hash": "ac6a1d36fae2199acce39fec41a8760ced752c2c645eb33962e67df828e34a44"
 }
