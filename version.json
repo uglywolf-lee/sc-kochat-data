@@ -1,9 +1,9 @@
 {
- "version": "4.10.2-14",
+ "version": "4.10.2-15",
  "game_build": "sc-alpha-4.10.2",
- "size": 11757403,
- "sha256": "ac6a1d36fae2199acce39fec41a8760ced752c2c645eb33962e67df828e34a44",
+ "size": 11757429,
+ "sha256": "3ea49b208bb0c812600c79b2e7b6a2023b43e202c38c5bced9237bffb941336d",
  "updated": "2026-11-08",
- "note": "고확신 번역 후보 105건 적용: 전투 웨이브 표기, 깨진 단어, 오역·자리표시자 수정",
- "hash": "ac6a1d36fae2199acce39fec41a8760ced752c2c645eb33962e67df828e34a44"
+ "note": "번역 감사 review 74건과 용어 수정 81건 적용: 선박 체력·내구도·무력화 표기 포함",
+ "hash": "3ea49b208bb0c812600c79b2e7b6a2023b43e202c38c5bced9237bffb941336d"
 }
