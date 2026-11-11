@@ -1,9 +1,11 @@
 # 스타시티즌 한글 채팅 (SC-KoChat)
 
+> 🏠 **홈페이지: https://sc.uglywolf.org/kochat-guide** — 내려받기·설명서·새 소식은 홈페이지에서 합니다(이 저장소도 한동안 같이 갱신합니다).
+
 스타시티즌 채팅창에 **한글을 그대로 치는** 프로그램입니다.
 게임을 하면서 창을 바꾸지 않고, 한영키만 눌러 한글로 말하면 됩니다.
 
-### 👉 [여기서 받으세요](https://github.com/uglywolf-lee/sc-kochat-data/releases/latest)
+### 👉 [여기서 받으세요](https://kochat.uglywolf.org)
 
 📖 설명서(텍스트로 보기·내려받기도 됨): https://sc.uglywolf.org/kochat-guide
 
