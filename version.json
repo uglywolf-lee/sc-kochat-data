@@ -1,9 +1,9 @@
 {
- "version": "4.10.2-15",
- "game_build": "sc-alpha-4.10.2",
- "size": 11757429,
- "sha256": "3ea49b208bb0c812600c79b2e7b6a2023b43e202c38c5bced9237bffb941336d",
- "updated": "2026-11-08",
- "note": "번역 감사 review 74건과 용어 수정 81건 적용: 선박 체력·내구도·무력화 표기 포함",
- "hash": "3ea49b208bb0c812600c79b2e7b6a2023b43e202c38c5bced9237bffb941336d"
+ "version": "4.10.3-9",
+ "game_build": "sc-alpha-4.10.3",
+ "size": 11918908,
+ "sha256": "1249e10421636b7c56cfb75c0ef83f836ba139b64ac4e3a5c8cb56165ba2c694",
+ "updated": "2026-11-13",
+ "note": "4.10.3 LIVE 대응: 새 함선 Marauder·Hyun, IAE 2956 행사, 도장·의상 146줄 번역, 임무 보상 꼬리에 재수행 대기시간(Cooldown) 추가",
+ "hash": "1249e10421636b7c56cfb75c0ef83f836ba139b64ac4e3a5c8cb56165ba2c694"
 }
