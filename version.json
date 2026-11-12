@@ -1,9 +1,9 @@
 {
- "version": "4.10.3-9",
+ "version": "4.10.3-10",
  "game_build": "sc-alpha-4.10.3",
- "size": 11918908,
- "sha256": "1249e10421636b7c56cfb75c0ef83f836ba139b64ac4e3a5c8cb56165ba2c694",
+ "size": 11917286,
+ "sha256": "9726f46ba0cadfcaf1b68d5707e176c5f23b6d6041c88d1af165b946c31f9ca7",
  "updated": "2026-11-13",
- "note": "4.10.3 LIVE 대응: 새 함선 Marauder·Hyun, IAE 2956 행사, 도장·의상 146줄 번역, 임무 보상 꼬리에 재수행 대기시간(Cooldown) 추가",
- "hash": "1249e10421636b7c56cfb75c0ef83f836ba139b64ac4e3a5c8cb56165ba2c694"
+ "note": "4.10.3 LIVE 대응: 새 함선 Marauder·Hyun, IAE 2956 행사, 도장·의상 146줄 번역, 보상 꼬리 Cooldown 추가, 음차로 바뀌었던 아이템·지명 이름(Sukoran·Aspis·Lumin·Daymar 등)을 영어로 되돌림",
+ "hash": "9726f46ba0cadfcaf1b68d5707e176c5f23b6d6041c88d1af165b946c31f9ca7"
 }
