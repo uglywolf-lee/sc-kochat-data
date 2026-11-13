@@ -1,9 +1,9 @@
 {
- "version": "4.10.3-12",
+ "version": "4.10.3-13",
  "game_build": "sc-alpha-4.10.3",
- "size": 11921083,
- "sha256": "27a92ce2a7e3c595da10a8fa3c5187c121cd632890a053a770a1878d1fc1c37c",
- "updated": "2026-11-13",
- "note": "게임 영문에 이름이 빠진 새 총기 3종 이름 채움: Kastak Arms \"Hellion\" Pistol · Kastak Arms \"Verdict\" LMG · Associated Science And Development \"Model-K2\" DMR (탄창·색상판 포함)",
- "hash": "27a92ce2a7e3c595da10a8fa3c5187c121cd632890a053a770a1878d1fc1c37c"
+ "size": 11921071,
+ "sha256": "1e484b47f1acd9b45140f1b8b76e7582bbf9195285b51653afb611eac201750a",
+ "updated": "2026-11-14",
+ "note": "파티 채팅 채널 이름 깨짐 고침(Party 영어로) · 번역 제보 반영 Turret 타워→터렛 21줄 · Nes Calloway 이름 되돌림",
+ "hash": "1e484b47f1acd9b45140f1b8b76e7582bbf9195285b51653afb611eac201750a"
 }
