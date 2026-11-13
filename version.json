@@ -1,9 +1,9 @@
 {
- "version": "4.10.3-10",
+ "version": "4.10.3-11",
  "game_build": "sc-alpha-4.10.3",
- "size": 11917286,
- "sha256": "9726f46ba0cadfcaf1b68d5707e176c5f23b6d6041c88d1af165b946c31f9ca7",
+ "size": 11916973,
+ "sha256": "828f9aa56d3a1274d39564daeb23dc64b29a4ebb96f8dee27a5bd34f178c6654",
  "updated": "2026-11-13",
- "note": "4.10.3 LIVE 대응: 새 함선 Marauder·Hyun, IAE 2956 행사, 도장·의상 146줄 번역, 보상 꼬리 Cooldown 추가, 음차로 바뀌었던 아이템·지명 이름(Sukoran·Aspis·Lumin·Daymar 등)을 영어로 되돌림",
- "hash": "9726f46ba0cadfcaf1b68d5707e176c5f23b6d6041c88d1af165b946c31f9ca7"
+ "note": "검색 이름 영어로: 아이템(Passcode Disk·Decryption Key·키카드·노즐·채굴 가젯·Wikelo Favor 등)·원자재(Copper·Coal 등)·지명(Seraphim Clinic·Utopia·Nyx 등) 135줄",
+ "hash": "828f9aa56d3a1274d39564daeb23dc64b29a4ebb96f8dee27a5bd34f178c6654"
 }
