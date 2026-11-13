@@ -1,9 +1,9 @@
 {
- "version": "4.10.3-11",
+ "version": "4.10.3-12",
  "game_build": "sc-alpha-4.10.3",
- "size": 11916973,
- "sha256": "828f9aa56d3a1274d39564daeb23dc64b29a4ebb96f8dee27a5bd34f178c6654",
+ "size": 11921083,
+ "sha256": "27a92ce2a7e3c595da10a8fa3c5187c121cd632890a053a770a1878d1fc1c37c",
  "updated": "2026-11-13",
- "note": "검색 이름 영어로: 아이템(Passcode Disk·Decryption Key·키카드·노즐·채굴 가젯·Wikelo Favor 등)·원자재(Copper·Coal 등)·지명(Seraphim Clinic·Utopia·Nyx 등) 135줄",
- "hash": "828f9aa56d3a1274d39564daeb23dc64b29a4ebb96f8dee27a5bd34f178c6654"
+ "note": "게임 영문에 이름이 빠진 새 총기 3종 이름 채움: Kastak Arms \"Hellion\" Pistol · Kastak Arms \"Verdict\" LMG · Associated Science And Development \"Model-K2\" DMR (탄창·색상판 포함)",
+ "hash": "27a92ce2a7e3c595da10a8fa3c5187c121cd632890a053a770a1878d1fc1c37c"
 }
