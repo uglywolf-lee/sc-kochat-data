@@ -1,9 +1,9 @@
 {
- "version": "4.10.3-13",
+ "version": "4.10.3-14",
  "game_build": "sc-alpha-4.10.3",
- "size": 11921071,
- "sha256": "1e484b47f1acd9b45140f1b8b76e7582bbf9195285b51653afb611eac201750a",
- "updated": "2026-11-14",
- "note": "파티 채팅 채널 이름 깨짐 고침(Party 영어로) · 번역 제보 반영 Turret 타워→터렛 21줄 · Nes Calloway 이름 되돌림",
- "hash": "1e484b47f1acd9b45140f1b8b76e7582bbf9195285b51653afb611eac201750a"
+ "size": 11921050,
+ "sha256": "7aaa5359643e48674ac8c6397cdc5adda98c95d92823456f7e56d3da58444160",
+ "updated": "2026-11-15",
+ "note": "번역 제보 반영: 영어로 남은 계약 제목(연구에 필요한 자원 등) 6줄 번역 · 「파티 Supplies」→「파티 용품」 14줄",
+ "hash": "7aaa5359643e48674ac8c6397cdc5adda98c95d92823456f7e56d3da58444160"
 }
